@@ -1,4 +1,4 @@
-# Mini-Embedded-IoT-Challange# Mini-Embedded-IoT-Challenge
+# Mini-Embedded-IoT-Challenge
 
 This repository was created to develop my skills in embedded systems and IoT, and it was published as a "Mini Embedded & IoT Challenge" series on LinkedIn. My aim was to improve from the basics to more advanced levels and to gain concrete knowledge, experience, and competence in each project.
 
