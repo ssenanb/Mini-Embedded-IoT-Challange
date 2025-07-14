@@ -27,7 +27,7 @@ Figure 3 : Bluetooth Terminal
 
 <img src="https://github.com/ssenanb/Danger-Detection-and-Audio-Warning-with-Bluetooth-Based-Radar-System/blob/main/bluetooth_terminal.jpeg" alt="Terminal" width="500"/>
 
-# Components
+# Components Used
 
 STM32F0DISC
 
